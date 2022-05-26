@@ -1,0 +1,7 @@
+.accountContainer div.detailContainer+div.detailContainer::before {
+  content: "";
+  padding: 1px;
+  display: block;
+  border-bottom: 1px solid #dee2e6;
+  margin: 10px auto;
+}
